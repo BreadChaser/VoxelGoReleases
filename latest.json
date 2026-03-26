@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "build": "409",
+  "packages": {
+    "linux_amd64": {
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-linux-amd64.zip"
+    },
+    "windows_amd64": {
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-windows-amd64.zip"
+    },
+    "darwin_arm64": {
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-darwin-arm64.zip"
+    },
+    "darwin_amd64": {
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-darwin-amd64.zip"
+    }
+  }
+}
