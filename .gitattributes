@@ -1,0 +1,2 @@
+# Windows helper: keep CRLF so GitHub raw and local edits stay consistent
+*.bat text eol=crlf
