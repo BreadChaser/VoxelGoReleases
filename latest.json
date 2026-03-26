@@ -7,12 +7,6 @@
     },
     "windows_amd64": {
       "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-windows-amd64.zip"
-    },
-    "darwin_arm64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-darwin-arm64.zip"
-    },
-    "darwin_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-darwin-amd64.zip"
     }
   }
 }
