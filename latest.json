@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "build": "413",
+  "build": "415",
   "packages": {
     "linux_amd64": {
       "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/voxel-linux-amd64.zip"
