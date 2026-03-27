@@ -1,20 +1,12 @@
 {
-  "version": "a0.0.12",
-  "build": "564",
+  "version": "a0.0.13",
+  "build": "654",
   "packages": {
     "linux_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.12+564-linux-amd64.zip"
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.13+654-linux-amd64.zip"
     },
     "windows_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.12+564-windows-amd64.zip"
-    }
-  },
-  "launcher": {
-    "version": "a0.0.10",
-    "build": "9",
-    "downloads": {
-      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/launcher/playtest-launcher-a0.0.10+9-linux-amd64" },
-      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/launcher/playtest-launcher-a0.0.10+9-windows-amd64.exe" }
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.13+654-windows-amd64.zip"
     }
   }
 }
