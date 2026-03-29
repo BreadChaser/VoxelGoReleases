@@ -1,12 +1,12 @@
 {
-  "version": "a0.0.22",
-  "build": "762",
+  "version": "a0.0.23",
+  "build": "763",
   "packages": {
     "linux_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.22+762-linux-amd64.zip"
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.23+763-linux-amd64.zip"
     },
     "windows_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.22+762-windows-amd64.zip"
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.23+763-windows-amd64.zip"
     }
   }
 }
