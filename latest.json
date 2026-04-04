@@ -1,12 +1,12 @@
 {
-  "version": "a0.0.30",
-  "build": "840",
+  "version": "a0.0.31",
+  "build": "1023",
   "packages": {
     "linux_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.30+840-linux-amd64.zip"
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/linux/voxel-a0.0.31+1023-linux-amd64.zip"
     },
     "windows_amd64": {
-      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.30+840-windows-amd64.zip"
+      "url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/windows/voxel-a0.0.31+1023-windows-amd64.zip"
     }
   }
 }
